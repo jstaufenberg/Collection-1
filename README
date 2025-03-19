@@ -1,1 +1,18 @@
+Disclaimer
+
+This repository contains educational materials accessed from DeepLearning.AI’s Evaluating AI Agents course. The content within this repository is provided solely for educational and reference purposes.
+
+All intellectual property rights of the course materials, including code examples, notebooks, and instructional content, belong to DeepLearning.AI. This repository does not claim ownership over any of the course materials, nor does it intend to distribute them beyond personal educational use. If you are interested in the original course, please visit DeepLearning.AI to enroll officially.
+
+Repository Overview
+
+This repository includes code, examples, and notes based on the Evaluating AI Agents course. The course explores:
+	•	The role of evaluation in AI agent performance.
+	•	Techniques to trace, analyze, and optimize AI agents.
+	•	Practical implementations using Python, OpenAI API, and data visualization tools.
+
+Contents
+	•	Jupyter Notebooks: Implementations of AI agent evaluation techniques.
+	•	Python Scripts: Supporting utility functions.
+	•	Resources & References: Additional materials for deeper understanding.
 
